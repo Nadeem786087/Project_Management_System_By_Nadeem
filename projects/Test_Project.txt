@@ -1,0 +1,2 @@
+PROJECT_INFO|Test Project|Just for practice
+TASK|1|Test Task|Testing task addition|pending

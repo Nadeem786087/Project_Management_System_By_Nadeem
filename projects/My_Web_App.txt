@@ -1,0 +1,4 @@
+PROJECT_INFO|My Web App|A cool web application
+TASK|1|Setup database|Create database schema|in_progress
+TASK|2|Design UI|Design homepage and login page|completed
+TASK|3|Build Backend|Set up server and APIs|pending
